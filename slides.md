@@ -46,6 +46,16 @@ hide: false
 ---
 
 ---
+src: ./pages/active_job_continuations_01.md
+hide: false
+---
+
+---
+src: ./pages/active_job_continuations_02.md
+hide: false
+---
+
+---
 src: ./pages/major_features_03.md
 hide: false
 layout: center
