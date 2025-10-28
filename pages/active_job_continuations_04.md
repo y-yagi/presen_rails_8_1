@@ -1,0 +1,1 @@
+## https://github.com/y-yagi/eightone/blob/main/app/jobs/user_import_job.rb のコードでデモ

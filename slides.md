@@ -56,9 +56,14 @@ hide: false
 ---
 
 ---
-src: ./pages/major_features_03.md
+src: ./pages/active_job_continuations_03.md
 hide: false
-layout: center
+---
+
+---
+src: ./pages/active_job_continuations_04.md
+hide: false
+center: true
 ---
 
 ---
