@@ -4,4 +4,4 @@
   * 一度実行されたステップは、再開された場合にも実行されない
 * `step.advance!`でどこまで処理したかを保存している
   * ジョブのデータと合わせて保存される
-* `step`に渡されるオブジェクト(`ActiveJob::Continuation::Step`のインスタンス)経由で`cursor`が取得できる
+* `step`に渡されるオブジェクト(`ActiveJob::Continuation::Step`のインスタンス)経由でカーソルが取得できる

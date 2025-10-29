@@ -67,6 +67,16 @@ center: true
 ---
 
 ---
+src: ./pages/active_job_continuations_05.md
+hide: false
+---
+
+---
+src: ./pages/active_job_continuations_06.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
