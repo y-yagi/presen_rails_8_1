@@ -107,6 +107,11 @@ hide: false
 ---
 
 ---
+src: ./pages/commandline_credentials_01.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
