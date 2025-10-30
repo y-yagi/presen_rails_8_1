@@ -77,6 +77,26 @@ hide: false
 ---
 
 ---
+src: ./pages/local_ci_01.md
+hide: false
+---
+
+---
+src: ./pages/local_ci_02.md
+hide: false
+---
+
+---
+src: ./pages/local_ci_03.md
+hide: false
+---
+
+---
+src: ./pages/local_ci_04.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
