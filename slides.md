@@ -97,6 +97,16 @@ hide: false
 ---
 
 ---
+src: ./pages/markdown_rendering_01.md
+hide: false
+---
+
+---
+src: ./pages/markdown_rendering_02.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
