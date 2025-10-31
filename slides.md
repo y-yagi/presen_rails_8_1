@@ -112,6 +112,21 @@ hide: false
 ---
 
 ---
+src: ./pages/deprecated_associations_01.md
+hide: false
+---
+
+---
+src: ./pages/deprecated_associations_02.md
+hide: false
+---
+
+---
+src: ./pages/deprecated_associations_03.md
+hide: false
+---
+
+---
 src: ./pages/outro.md
 hide: false
 ---
