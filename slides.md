@@ -82,6 +82,21 @@ hide: false
 ---
 
 ---
+src: ./pages/local_ci_02.md
+hide: false
+---
+
+---
+src: ./pages/local_ci_03.md
+hide: false
+---
+
+---
+src: ./pages/local_ci_04.md
+hide: false
+---
+
+---
 src: ./pages/structured_event_reporting_01.md
 hide: false
 ---
@@ -103,21 +118,6 @@ hide: false
 
 ---
 src: ./pages/structured_event_reporting_05.md
-hide: false
----
-
----
-src: ./pages/local_ci_02.md
-hide: false
----
-
----
-src: ./pages/local_ci_03.md
-hide: false
----
-
----
-src: ./pages/local_ci_04.md
 hide: false
 ---
 
