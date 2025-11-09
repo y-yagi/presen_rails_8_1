@@ -122,6 +122,16 @@ hide: false
 ---
 
 ---
+src: ./pages/structured_event_reporting_06.md
+hide: false
+---
+
+---
+src: ./pages/structured_event_reporting_07.md
+hide: false
+---
+
+---
 src: ./pages/markdown_rendering_01.md
 hide: false
 ---

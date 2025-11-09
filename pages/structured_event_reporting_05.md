@@ -1,17 +1,15 @@
 # Structured Event Reporting
 
-* Railsのフレームワークが出力するログもサポートされており、アプリ側のログと同様にサブスクライブ出来る
+* ログには通常のログとデバッグログの2パターンある
 
 ```ruby
-{name: "action_controller.request_started",
- payload: {controller: "UsersController", action: "index", format: "HTML", params: {}},
- tags: {},
- context: {},
- timestamp: 1761899029691297698,
- source_location:
-  {filepath: "/home/y-yagi/.rbenv/versions/3.4.4/lib/ruby/gems/3.4.0/gems/actionpack-8.1.0/lib/action_controller/structured_event_subscriber.rb",
-   lineno: 17,
-   label: "ActionController::StructuredEventSubscriber#start_processing"}}
+# 通常のログ
+Rails.event.notify("user.signup", user_id: 123, email: "user@example.com")
+
+# デバッグログ
+Rails.event.debug("user.login_failed", user_id: 123, email: "user@example.com")
 ```
 
-* [Active Support Instrumentation](https://guides.rubyonrails.org/active_support_instrumentation.html#action-controller-caching)のイベントとは別(8.0時点)
+* デバッグログはデバッグモードがオンの場合のみ出力される
+   * "develop"環境でのみ、デバッグモードがデフォルトオンになっている
+
