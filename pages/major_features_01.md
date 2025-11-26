@@ -1,1 +1,1 @@
-# Major Featuresを見ていきますよ
+# ではMajor Featuresを<br />見ていきますよ

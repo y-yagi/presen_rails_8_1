@@ -1,5 +1,5 @@
 # Structured Event Reporting
 
 * イベントは普通のHash
-  * JSONへの変換などは、subscber側で行う必要がある
-  * JSONやMessagePackに変換するためのクラスが一瞬あったが、最終的には入らなかった
+  * JSONへの変換などの機能は無い
+  * JSONやMessagePackに変換するためのクラスが一時あったが、最終的には入らなかった

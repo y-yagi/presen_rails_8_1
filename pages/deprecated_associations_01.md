@@ -1,8 +1,8 @@
 # Deprecated Associations
 
 * Active Recordのassociationsをdeprecatedに出来る機能
-* deprecatedになったassociationは、デフォルトでは参照時やpreload時にdeprecatedメッセージが表示される
-  * 挙動はオプションで変更可能
+* deprecatedになったassociationは、参照時やpreload時にdeprecatedメッセージが表示される
+  * メッセージを出す、exceptionをraiseする、等の挙動はオプションで変更可能
 
 ```ruby
 class Author < ApplicationRecord

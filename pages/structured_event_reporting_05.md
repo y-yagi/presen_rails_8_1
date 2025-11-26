@@ -11,5 +11,5 @@ Rails.event.debug("user.login_failed", user_id: 123, email: "user@example.com")
 ```
 
 * デバッグログはデバッグモードがオンの場合のみ出力される
-   * "develop"環境でのみ、デバッグモードがデフォルトオンになっている
+   * `develop`環境でのみ、デバッグモードがデフォルトオンになっている
 
